@@ -17,6 +17,8 @@ Stydy period: _2005 \- 2010_
 Place: _Belarussian State Economic University_  
 Faculty: _Department of managment_
 
+---
+
 ## Summary:
 
 I started to learn programming in 2018. I have become more interested in learning of JS, CSS and HTML. I had set myself a new goal that I want to become a front-end developer.  
@@ -27,6 +29,8 @@ So, I like it. It\`s chalenge for me.
 ## Experience:
 
 I havn\`t any commercial experience in developing web site or program. I executed some elements of markup, create landing-page and solved different JS tasks on courses.
+
+---
 
 ## Courses:
 
