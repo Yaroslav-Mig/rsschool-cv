@@ -27,3 +27,22 @@ So, I like it. It\`s chalenge for me.
 ## Experience:
 
 I havn\`t any commercial experience in developing web site or program. I executed some elements of markup, create landing-page and solved different JS tasks on courses.
+
+## Courses:
+
+- IT-Academy: [_courses for web-developer_](https://www.it-academy.by/course/front-end-developer/)
+- Codecademy: [_achievements_](https://www.codecademy.com/users/flogger23/achievements/)
+- Htmlacademy: [_achievements_](https://htmlacademy.ru/profile/id1047383/achievements)
+- Codewars: [_rank_](https://www.codewars.com/users/flogger23/)
+- Udemy: [_video courses_](https://www.udemy.com/home/my-courses/learning/)
+
+## Skills:
+
+- Languages: `HTML5`, `CSS3`, `JavaScript`
+- Version control system: `Git`
+- Graphics editor: `Photoshop`
+
+## Foreign languages:
+
+- English: **A1**  
+  _Experience: preparation report for management, business correspondence, participation in meeting_
