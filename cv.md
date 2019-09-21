@@ -44,5 +44,5 @@ I havn\`t any commercial experience in developing web site or program. I execute
 
 ## Foreign languages:
 
-- English: **A1**  
+- English: **A2**  
   _Experience: preparation report for management, business correspondence, participation in meeting_
