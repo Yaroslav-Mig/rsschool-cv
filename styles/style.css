@@ -53,3 +53,14 @@ body {
   width: 100%;
   margin-top: 10px;
 }
+.aside h3.caption::after,
+.box-inner::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  margin-left: -10px;
+  width: calc(100% + 10px);
+  height: 2px;
+  background: #828b8b;
+}

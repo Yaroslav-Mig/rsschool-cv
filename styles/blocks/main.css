@@ -17,16 +17,6 @@
   position: relative;
   max-width: 100%;
 }
-.box-inner::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -1px;
-  margin-left: -10px;
-  width: calc(100% + 10px);
-  height: 2px;
-  background: #828b8b;
-}
 .list-content {
   list-style: disc inside;
 }
