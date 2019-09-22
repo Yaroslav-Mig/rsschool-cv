@@ -16,7 +16,7 @@
   background-color: transparent;
 }
 .picture {
-  display: block;
+  display: inline-block;
   max-width: 100%;
 }
 .address {

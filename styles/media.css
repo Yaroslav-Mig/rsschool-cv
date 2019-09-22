@@ -1,0 +1,23 @@
+@media screen and (max-width: 768px) {
+  .wrapper {
+    flex-flow: column-reverse;
+  }
+  .main,
+  .aside { 
+    width: 100%;
+  }
+  .title {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    padding: 0.5rem 0;
+    transform: translateX(-50%); 
+    color: #fff;
+    font-weight: 400;
+    text-transform: initial;
+  }
+  .aside > .item-content:first-child {
+    margin-top: 7vh;
+    text-align: center;
+  }
+}
