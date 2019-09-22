@@ -34,3 +34,22 @@ body {
 .caption  {
   font-family: "Playfair Display", "Book Antiqua", Palatino, "Times New Roman", Times, serif;
 }
+.caption {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  padding: 0 10px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-transform: capitalize;
+  color: #fff;
+  letter-spacing: 1px;
+  background-color: #2b3a50;
+  -webkit-border-radius: 5px / 10px;
+     -moz-border-radius: 5px / 10px;
+          border-radius: 5px / 10px;
+}
+.item-content {
+  width: 100%;
+  margin-top: 10px;
+}
