@@ -10,7 +10,7 @@
     position: absolute;
     top: 0;
     left: 50%;
-    padding: 0.5rem 0;
+    padding: 0.2rem 0;
     transform: translateX(-50%); 
     color: #fff;
     font-weight: 400;
@@ -19,5 +19,13 @@
   .aside > .item-content:first-child {
     margin-top: 7vh;
     text-align: center;
+  }
+}
+@media screen and (max-width: 375px) {
+  body {
+    font-size: 14px;
+  }
+  .aside > .item-content:first-child {
+    margin-top: 10vh;
   }
 }
